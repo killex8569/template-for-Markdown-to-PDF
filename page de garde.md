@@ -19,7 +19,7 @@ header-includes:
     \includegraphics[width=0.6\textwidth]{PdG.png}
     \vspace*{0.2cm}
 
-    {\Huge\textbf{Documentation Zabbix, Grafana et GLPI}\par}
+    {\Huge\textbf{Documentation}\par}
     \vspace{0.5cm}
     {\LARGE Documentation Technique et Utilisateurs\par}
 
