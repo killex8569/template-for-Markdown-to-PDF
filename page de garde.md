@@ -1,4 +1,3 @@
-
 ---
 lang: fr-FR
 geometry: margin=2.5cm
@@ -20,9 +19,9 @@ header-includes:
     \includegraphics[width=0.6\textwidth]{PdG.png}
     \vspace*{0.2cm}
 
-    {\Huge\textbf{Nom de la documentation}\par}
+    {\Huge\textbf{Documentation Zabbix, Grafana et GLPI}\par}
     \vspace{0.5cm}
-    {\LARGE sous-titre de la documentation\par}
+    {\LARGE Documentation Technique et Utilisateurs\par}
 
     \includegraphics[width=0.6\textwidth]{PdG2.png}
     \vspace*{0.2cm}
@@ -31,11 +30,11 @@ header-includes:
 
     \vfill
 
-    {\large\textbf{Killex8569}\par}
+    {\large\textbf{Alexandre FAUBLADIER--ANETTE}\par}
     \vspace{0.2cm}
-    {\large <your-school_or_organisation>\par}
+    {\large Advolis-Orfis\par}
     \vspace{0.2cm}
-    {\large <date>\par}
+    {\large 31 mars 2025\par}
 \end{titlepage}
 
 \newpage
